@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+<rect width="800" height="600" rx="30" fill="#f4f4f4"/>
+<ellipse cx="400" cy="500" rx="250" ry="35" fill="#ddd"/>
+<rect x="285" y="265" width="230" height="150" rx="55" fill="#222"/>
+<rect x="315" y="295" width="170" height="90" rx="40" fill="#333"/>
+<circle cx="350" cy="335" r="9" fill="#ffb000"/><circle cx="450" cy="335" r="9" fill="#ffb000"/>
+<path d="M300 260 C255 190 290 105 355 125 C390 136 395 175 370 205 L350 230 C335 248 325 255 300 260Z" fill="#171717"/>
+<path d="M500 260 C545 190 510 105 445 125 C410 136 405 175 430 205 L450 230 C465 248 475 255 500 260Z" fill="#171717"/>
+<circle cx="335" cy="178" r="10" fill="#555"/><circle cx="465" cy="178" r="10" fill="#555"/>
+<text x="400" y="70" text-anchor="middle" font-family="Arial" font-size="30" font-weight="700" fill="#222">Soundcore P20i</text>
+<text x="400" y="105" text-anchor="middle" font-family="Arial" font-size="18" fill="#666">Wireless Earbuds • 30H Playback</text>
+</svg>
